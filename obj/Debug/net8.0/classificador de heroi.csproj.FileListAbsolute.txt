@@ -1,0 +1,15 @@
+C:\Users\jiuma\OneDrive\Documentos\projeto\projetos - dio\classificador de heroi\obj\Debug\net8.0\classificador de heroi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jiuma\OneDrive\Documentos\projeto\projetos - dio\classificador de heroi\obj\Debug\net8.0\classificador de heroi.AssemblyInfoInputs.cache
+C:\Users\jiuma\OneDrive\Documentos\projeto\projetos - dio\classificador de heroi\obj\Debug\net8.0\classificador de heroi.AssemblyInfo.cs
+C:\Users\jiuma\OneDrive\Documentos\projeto\projetos - dio\classificador de heroi\obj\Debug\net8.0\classificador de heroi.csproj.CoreCompileInputs.cache
+C:\Users\jiuma\OneDrive\Documentos\projeto\projetos - dio\classificador de heroi\obj\Debug\net8.0\classificador de heroi.sourcelink.json
+C:\Users\jiuma\OneDrive\Documentos\projeto\projetos - dio\classificador de heroi\bin\Debug\net8.0\classificador de heroi.exe
+C:\Users\jiuma\OneDrive\Documentos\projeto\projetos - dio\classificador de heroi\bin\Debug\net8.0\classificador de heroi.deps.json
+C:\Users\jiuma\OneDrive\Documentos\projeto\projetos - dio\classificador de heroi\bin\Debug\net8.0\classificador de heroi.runtimeconfig.json
+C:\Users\jiuma\OneDrive\Documentos\projeto\projetos - dio\classificador de heroi\bin\Debug\net8.0\classificador de heroi.dll
+C:\Users\jiuma\OneDrive\Documentos\projeto\projetos - dio\classificador de heroi\bin\Debug\net8.0\classificador de heroi.pdb
+C:\Users\jiuma\OneDrive\Documentos\projeto\projetos - dio\classificador de heroi\obj\Debug\net8.0\classificador de heroi.dll
+C:\Users\jiuma\OneDrive\Documentos\projeto\projetos - dio\classificador de heroi\obj\Debug\net8.0\refint\classificador de heroi.dll
+C:\Users\jiuma\OneDrive\Documentos\projeto\projetos - dio\classificador de heroi\obj\Debug\net8.0\classificador de heroi.pdb
+C:\Users\jiuma\OneDrive\Documentos\projeto\projetos - dio\classificador de heroi\obj\Debug\net8.0\classificador de heroi.genruntimeconfig.cache
+C:\Users\jiuma\OneDrive\Documentos\projeto\projetos - dio\classificador de heroi\obj\Debug\net8.0\ref\classificador de heroi.dll
